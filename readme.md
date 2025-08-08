@@ -81,6 +81,15 @@ Antes da modelagem, a análise exploratória de dados (EDA) revelou padrões cru
 
 - Possui Dependentes: O padrão é semelhante ao do cônjuge. Clientes sem dependentes (Não) cancelam muito mais (31,3%) do que aqueles que possuem dependentes (Sim), que têm uma taxa de apenas 15,5%.
 
+## 💡 Insights dos Gráficos
+
+A análise revelou um perfil claro do cliente com alto risco de Churn, caracterizado por:
+
+* **Contrato Mensal:** Este tipo de contrato tem a maior taxa de cancelamento.
+* **Baixa Permanência:** A maioria das evasões ocorre nos primeiros meses de serviço.
+* **Perfil Demográfico:** Clientes idosos, sem cônjuge ou dependentes, mostram maior propensão a cancelar.
+
+
 ## 🚀 Como Executar o Notebook
 
 Para rodar a análise e replicar os modelos, siga as instruções:
