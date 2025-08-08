@@ -1,4 +1,4 @@
-## 📈 Projeto de Machine Learning: Análise Preditiva de Evasão de Clientes (Churn) - TelecomX (Parte 2)
+## 📈 Análise Preditiva de Evasão de Clientes (Churn) - TelecomX parte 2
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-orange?style=flat&logo=pandas)
