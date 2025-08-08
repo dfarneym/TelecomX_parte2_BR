@@ -41,7 +41,7 @@ A preparação dos dados é a base para a modelagem. O processo foi dividido nas
 
 ## 📊 Exemplos de Gráficos e Insights da Análise Exploratória
 
-A análise exploratória (EDA) nos permitiu identificar padrões e tendências importantes na evasão de clientes. Os gráficos a seguir ilustram os principais achados.
+A análise exploratória (EDA) permitiu identificar padrões e tendências importantes na evasão de clientes. Os gráficos a seguir ilustram os principais achados.
 
 ### 1. Proporção de Cancelamento por Tipo de Contrato
 
